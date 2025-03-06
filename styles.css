@@ -4,6 +4,18 @@ img.cv-photo {
     border-radius: 50%; /* Opcional: hace que la imagen sea redonda */
 }
 
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-content .text {
+    flex: 1;
+}
+.header-content .photo {
+    margin-left: 20px;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
