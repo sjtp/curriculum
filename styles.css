@@ -1,5 +1,5 @@
 img.cv-photo {
-    width: 150px; /* Ajusta el tamaño según sea necesario */
+    width: 50px; /* Ajusta el tamaño según sea necesario */
     height: auto;
     border-radius: 50%; /* Opcional: hace que la imagen sea redonda */
 }
